@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I'm Md Zillur Rahman 👋
+### Hi there 👋, I'm Md Zillur Rahman
 ![](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
 
 🎓
