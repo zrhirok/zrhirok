@@ -21,7 +21,7 @@ Data Visualization: Power BI, Excel
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-
+![Zillur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrhirok&show_icons=true&theme=radical)
 
 
 
