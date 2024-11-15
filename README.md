@@ -8,7 +8,7 @@ I'm a Fresher Data Analyst passionate about transforming raw data into actionabl
 I'm deepening my knowledge in SQL with a focus on complex joins and report generation, and I’m also exploring data visualization and Power BI.
 
 🌍 Future Goals
-I aspire to work in data analysis and visualization roles, ultimately pursuing remote work opportunities in countries like Germany, Canada, and Australia.
+I aspire to work in data analysis and visualization roles, ultimately pursuing remote work opportunities.
 
 💼 Skills      
 Programming & Data Tools: Python, SQL (MySQL), Excel     
